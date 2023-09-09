@@ -1,6 +1,6 @@
 #1.1 to implement a recursive function to calculate fctorial of a given number.
 
-def fact_rec(n) :
+def fact_rec(n):
   if n ==0 or n==1:
     return 1
   else:
